@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FruitEducation</string>
+    <string name="apple_intro">"An apple a day keeps the doctor away" is an old Welsh proverb that most of us are familiar with</string>
+    <string name="banana_intro">Banana is one of a high caloried tropical fruits. 100 grams of its flesh carries 90 calories.</string>
+    <string name="cherry_intro">A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. </string>
+    <string name="lemon_intro">Lemon is a rich source of vitamin C, providing 64% of the Daily Value in a 100 g reference amount (table). </string>
+    <string name="orange_intro">The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae, native to China.</string>
+    <string name="pineapple_intro">The pineapple (Ananas comosus) is a tropical plant with an edible fruit, also called a pineapple, and the most economically significant plant in the family Bromeliaceae.</string>
+    <string name="watermelon_intro">Watermelon (Citrullus lanatus) is a scrambling and trailing vine in the flowering plant family Cucurbitaceae.</string>
+
+
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="cherry">Cherry</string>
+    <string name="lemon">Lemon</string>
+    <string name="orange">Orange</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="watermelon">Watermelon</string>
+
+    <string name="hint">Click Image To Get More Information</string>
+</resources>

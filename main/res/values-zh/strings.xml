@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">欢乐水果</string>
+    <string name="apple_intro">每天一苹果，医生远离我，这句话对于我们来说都非常的熟悉</string>
+    <string name="banana_intro">香蕉的卡路里含量非常高，100克的香蕉中含有90卡路里</string>
+    <string name="cherry_intro">樱桃是欧李属植物的果实，是一种肉质核果</string>
+    <string name="lemon_intro">柠檬富含维生素C ， 100克柠檬可以包含日常所需的64%的维生素C</string>
+    <string name="orange_intro">柑橘是中国特有的芸香科柑桔属植物的果实。</string>
+    <string name="pineapple_intro">菠萝是一种热带植物，一种可食用的果实，是凤梨科中最具经济价值的植物。</string>
+    <string name="watermelon_intro">西瓜是葫芦科开花植物中攀缘蔓生的藤本植物。</string>
+
+
+    <string name="apple">苹果</string>
+    <string name="banana">香蕉</string>
+    <string name="cherry">樱桃</string>
+    <string name="lemon">柠檬</string>
+    <string name="orange">橘子</string>
+    <string name="pineapple">菠萝</string>
+    <string name="watermelon">西瓜</string>
+
+    <string name="hint">点击图片可以获取更多信息</string>
+</resources>
